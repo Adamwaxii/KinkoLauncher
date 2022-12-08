@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
-  "version": "1.9.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "Kinkolauncher",
+  "version": "1.7.0",
+  "productName": "Kinko Launcher",
+  "description": "KinkoLauncher",
+  "author": "Adamwaxi",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
@@ -49,6 +49,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/adamwaxi/Kinkolauncher.git"
   }
 }
